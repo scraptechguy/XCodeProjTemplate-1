@@ -1,1 +1,1 @@
-# XCode project repo template
+# XCode project template
