@@ -1,3 +1,3 @@
 # XCode project template
 
-<the rest of README>
+"<the rest of README>"
